@@ -7,8 +7,6 @@
 <h1 align="center">Blog</h1>
 
   <p align="center">
-  
-    <br />
    This is a blog website deigned to upload pictures and the story behind it
   </p>
 </div>
