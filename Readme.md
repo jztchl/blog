@@ -4,7 +4,7 @@
     <img src="/static/assets/img/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h1 align="center">Blog</h1>
 
   <p align="center">
     project_description
@@ -14,6 +14,6 @@
 </div>
 
 
-<h1>Blog</h1>
+
 <br>
 <a href="https://strangeroverblogs.herokuapp.com/"  target=”_blank”>click here to check out the blog</a>
