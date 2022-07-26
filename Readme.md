@@ -4,7 +4,7 @@
     <img src="/static/assets/img/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Blog</h1>
+<h1 align="center">StrangeRover Blogs</h1>
 
   <p align="center">
    This is a blog website deigned to upload pictures and the story behind it
