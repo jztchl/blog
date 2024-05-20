@@ -10,7 +10,6 @@
    This is a blog website deigned to upload pictures and the story behind it
   </p>
 </div>
-<a href="https://strangeroverblogs.herokuapp.com/"  target=”_blank”>click here to check out the blog</a>
 
 ```markdown
 # StrangeRover Blogs
