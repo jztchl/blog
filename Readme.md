@@ -19,7 +19,7 @@
 
 StrangeRover Blogs is a website designed to upload pictures and the stories behind them. This project is built using the Django framework.
 
-[Check out the blog](https://your-blog-url.com)
+[Check out the blog](https://strangeroverblogs.herokuapp.com/)
 
 ## About
 
